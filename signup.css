@@ -20,7 +20,7 @@ html {
     margin-left:30px;
 }
 
-input[type=submit]{
+.but1{
 font-weight: bold;
 height:25px;
 width: 300px;
